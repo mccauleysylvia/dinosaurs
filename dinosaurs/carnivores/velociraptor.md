@@ -1,5 +1,5 @@
 ---
-name: Pteranodon
+name: Velociraptor
 size: 2 m
 discovery: 1924
 discoverer: Henry Fairfield Osborn
